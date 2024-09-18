@@ -1,0 +1,6 @@
+print( "****************") 
+print("  Alan Turning   ") 
+print("*****************")   
+print("*"* 20)
+print("   Alan Turning   ")
+print("*"* 20)

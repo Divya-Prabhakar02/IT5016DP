@@ -1,0 +1,6 @@
+amount =  500
+aus_rate = 0.95
+nz_dollar = amount*aus_rate
+print(nz_dollar)
+aus_rate = amount/0.95
+print(aus_rate)

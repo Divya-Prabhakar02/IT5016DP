@@ -1,0 +1,11 @@
+day = "  ****Monday is the first day of the week*****   "
+print(len(day))
+print(day.upper())
+print(day.lower())
+print(day.find("is"))
+print(day.find("day"))
+print(day.find("g"))
+print(day.rfind("y"))
+print(day.rfind("first"))
+print(day.find("week"))
+print(day.strip())
